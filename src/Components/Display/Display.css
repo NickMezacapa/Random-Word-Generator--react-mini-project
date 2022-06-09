@@ -1,0 +1,16 @@
+.Display-Component_container {
+    height: 50%;
+    width: 80%;
+    border: 1px solid hsla(0, 0%, 59.2%, .3);
+    position: absolute;
+    bottom: 5%;
+    padding: 2rem;
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Display-Word_active {
+    font-size: 62px;
+    font-weight: 600;
+}
